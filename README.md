@@ -7,7 +7,7 @@ Boilerplate for a project built in [TypeScript](https://www.typescriptlang.org/)
 1. Degit the repo
 
 ```shell
-npx degit MCluck90/ts-node-project
+npx degit MCluck90/ts-node-project#main
 ```
 
 2. Search for and replace the following:
